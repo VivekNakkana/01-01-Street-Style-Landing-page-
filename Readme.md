@@ -10,7 +10,7 @@
 ### Time Spent:
 Though relatively easy project, this being the first one it took nearly 5hours to complete.
 
-### [Live Link]()
+### [Live Link](https://ineuron-proj-01-vivek.netlify.app/)
 
 ### QuickLook
 ![img](./QuickLook.png) 
